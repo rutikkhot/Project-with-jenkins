@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-22T12:02:32 IST" name="SamplePageTest" finished-at="2025-04-22T12:03:27 IST" duration-ms="55168">
+    <groups>
+    </groups>
+    <test started-at="2025-04-22T12:02:32 IST" name="MyTests" finished-at="2025-04-22T12:03:27 IST" duration-ms="55168">
+      <class name="com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:02:31 IST" name="startReport" finished-at="2025-04-22T12:02:32 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="beforeCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:02:32 IST" name="beforeCheck" finished-at="2025-04-22T12:02:48 IST" duration-ms="15992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeCheck -->
+        <test-method signature="TC_01_loginCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:02:48 IST" name="TC_01_loginCheck" finished-at="2025-04-22T12:02:50 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_loginCheck -->
+        <test-method is-config="true" signature="afterCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:02:50 IST" name="afterCheck" finished-at="2025-04-22T12:02:55 IST" duration-ms="5205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterCheck -->
+        <test-method is-config="true" signature="afterCheck(org.testng.ITestResult)[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:02:55 IST" name="afterCheck" finished-at="2025-04-22T12:02:57 IST" duration-ms="2008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_01_loginCheck status=SUCCESS method=TC_01_LoginCheck.TC_01_loginCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterCheck -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck@a514af7]" started-at="2025-04-22T12:03:27 IST" name="endReport" finished-at="2025-04-22T12:03:27 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck -->
+      <class name="com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck">
+        <test-method is-config="true" signature="beforeCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck@6b81ce95]" started-at="2025-04-22T12:02:57 IST" name="beforeCheck" finished-at="2025-04-22T12:03:19 IST" duration-ms="21740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeCheck -->
+        <test-method signature="TC_02_invalidUserNameCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck@6b81ce95]" started-at="2025-04-22T12:03:19 IST" name="TC_02_invalidUserNameCheck" finished-at="2025-04-22T12:03:20 IST" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_invalidUserNameCheck -->
+        <test-method is-config="true" signature="afterCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck@6b81ce95]" started-at="2025-04-22T12:03:20 IST" name="afterCheck" finished-at="2025-04-22T12:03:25 IST" duration-ms="5197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterCheck -->
+        <test-method is-config="true" signature="afterCheck(org.testng.ITestResult)[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck@6b81ce95]" started-at="2025-04-22T12:03:25 IST" name="afterCheck" finished-at="2025-04-22T12:03:27 IST" duration-ms="2005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_02_invalidUserNameCheck status=SUCCESS method=TC_02_InvalidUserNameCheck.TC_02_invalidUserNameCheck()[pri:0, instance:com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck@6b81ce95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterCheck -->
+      </class> <!-- com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck -->
+    </test> <!-- MyTests -->
+  </suite> <!-- SamplePageTest -->
+</testng-results>

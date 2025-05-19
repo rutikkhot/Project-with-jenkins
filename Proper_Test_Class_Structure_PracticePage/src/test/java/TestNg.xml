@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SamplePageTest">
+    <test name="MyTests">
+        <classes>
+            <class name="com.kiranacdemy.practicepage.testcases.TC_01_LoginCheck" />
+            <class name="com.kiranacdemy.practicepage.testcases.TC_02_InvalidUserNameCheck" />
+        </classes>
+    </test>
+</suite>
