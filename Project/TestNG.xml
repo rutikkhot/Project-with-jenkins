@@ -1,0 +1,8 @@
+<suite name="ProjectTest">
+  <test name="MyTest">
+    <classes>
+      <class name="com.testcases.Login" />
+      <class name="com.testcases.Registartion" />
+    </classes>
+  </test>
+</suite>
